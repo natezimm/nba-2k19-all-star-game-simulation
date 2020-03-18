@@ -1,0 +1,17 @@
+.Team {
+    text-align: center;
+}
+
+.Team-cards {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.Team-winner {
+    color: #4caf50;
+}
+
+.Team-loser {
+    color: #e91e63;
+}
