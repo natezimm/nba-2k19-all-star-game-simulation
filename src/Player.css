@@ -1,5 +1,5 @@
 .Player {
-    width: 350px;
+    width: 300px;
     padding: 10px;
     margin: 1rem;
     box-shadow: 7px 10px 12px -5px rgba(0,0,0,.56);
@@ -30,6 +30,8 @@
 
 .Player img {
     transition: all ease 500ms;
+    width: 300px;
+    margin-bottom: -30px;
 }
 
 .Player img:hover {
